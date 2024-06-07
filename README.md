@@ -1,6 +1,6 @@
 # Client_Server_Architecture_with_MySQL_101-102
 ## Client Server Architecture with MySQL - 101 : Understanding Client Server Architecture 
-- The client-server architecture refers to a system that hosts, delivers, and manages most of the resources and services that the client requests. In this model, all requests and services are delivered over a network, and it is also referred to as the networking computing model or client server network.
+The client-server architecture refers to a system that hosts, delivers, and manages most of the resources and services that the client requests. In this model, all requests and services are delivered over a network, and it is also referred to as the networking computing model or client server network.
 
 Client-server architecture, alternatively called a client-server model, is a network application that breaks down tasks and workloads between clients and servers that reside on the same system or are linked by a computer network.
 
@@ -9,7 +9,7 @@ Client-server architecture typically features multiple users’ workstations, PC
 This model is also called a client-server network or a network computing model.
 
 
-- The Characteristics of Client-Server Architecture
+The Characteristics of Client-Server Architecture :
 
 Client-server architecture typically features the following characteristics:
 
@@ -137,4 +137,5 @@ TWO Linux Server in the cloud was created.
   ![Manipulation](./images/manipulation.png)
  
 
-
+## Conclusion :
+Client server architecture successfully configured.
